@@ -1,0 +1,14 @@
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.AssemblyInfo.cs
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\bin\Debug\netcoreapp3.1\RGR_MY.exe
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\bin\Debug\netcoreapp3.1\RGR_MY.deps.json
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\bin\Debug\netcoreapp3.1\RGR_MY.runtimeconfig.json
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\bin\Debug\netcoreapp3.1\RGR_MY.runtimeconfig.dev.json
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\bin\Debug\netcoreapp3.1\RGR_MY.dll
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\bin\Debug\netcoreapp3.1\RGR_MY.pdb
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.dll
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.pdb
+C:\Users\Я\source\repos\RGR_MY\RGR_MY\obj\Debug\netcoreapp3.1\RGR_MY.genruntimeconfig.cache
